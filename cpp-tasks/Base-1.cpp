@@ -1,6 +1,6 @@
 #include "iostream"
 
-int main(int argc, char const *argv[])
+int main(int argc, char **argv[])
 {
     /* 1. Base data about c++ */
     setlocale(LC_ALL, "Rus"); // For correct Ru symbols display
