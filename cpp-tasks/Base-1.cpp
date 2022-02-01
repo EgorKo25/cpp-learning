@@ -19,6 +19,7 @@ int main(int argc, char **argv[])
     char - 1b
     bool - 1b 
     */
+   
 
     int a;                     // Announcement
     a = 1;                     // Initialization
